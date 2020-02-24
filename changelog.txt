@@ -1,0 +1,10 @@
+0.0.1 (10/08/19)
+	Programme fonctionnel, algorithme DFS intégré
+	Asymétrie entre les lignes (commence à 0) et les colonnes (commence à 1)
+	Affichage simple sur console
+	Entrée de grilles peu ergonomique
+
+0.0.2 (15/08/19)
+	Mise en place de la symétrie des lignes & colonnes (début en 0;0)
+	Début de code de la classe "Localisation" précisant la position d'une case dans la grille. Non utilisé pour le moment
+	Ajout de commentaires et de javadoc pour les principales méthodes
